@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am someone who likes to build core software. I'm a fan of C++.
 
 <!--
 **WizarDRW/WizardRW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
